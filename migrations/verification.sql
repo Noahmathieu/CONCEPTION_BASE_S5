@@ -1,0 +1,1 @@
+SELECT nom as Plat, prix FROM PLAT
