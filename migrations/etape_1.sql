@@ -13,3 +13,5 @@ INSERT INTO PLAT(nom, prix) values
 ('Soupe Chinoise',5000),
 ('Mofo gasy(les 4)',1000),
 ('Ranon apango',500);
+
+Pieges ->Pour le prix, on a prix integer car il n' y a pas de chiffres decimale sur le prix
